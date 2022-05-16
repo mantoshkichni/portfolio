@@ -1,0 +1,13 @@
+.container {
+  background-image: url("backgroundImage1.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+p {
+  background-color: rgba(0, 0, 0, 0.7);
+  color: aliceblue;
+}
+.h11 {
+  background-color: rgba(0, 0, 0, 0.7);
+  color: aliceblue;
+}
