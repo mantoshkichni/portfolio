@@ -4,7 +4,7 @@ import "./navbar.css";
 
 export const Navbar = () => {
   return (
-    <div className=" container text-center position-sticky   navbar justify-content-end   ">
+    <div className=" container text-center position-sticky    navbar justify-content-end   ">
       <ul class="nav ">
         <li class="nav-item">
           <a
