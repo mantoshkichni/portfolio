@@ -1,10 +1,10 @@
-import newslogo from "../../project_image/newslogo.png";
-import galeryLogo from "../../project_image/galeryLogo.jpg";
-import chalAppllogo from "../../project_image/chatAppLogo.png";
-import translaterlogo from "../../project_image/translaterLogo.png";
-import weatherlogo from "../../project_image/weatherApplogo.jpg";
-import ecommercelogo from "../../project_image/ecommerceLogo.png";
-import maillogo from "../../project_image/maillogo.webp";
+import newslogo from "../project_image/newslogo.png";
+import galeryLogo from "../project_image/galeryLogo.jpg";
+import chalAppllogo from "../project_image/chatAppLogo.png";
+import translaterlogo from "../project_image/translaterLogo.png";
+import weatherlogo from "../project_image/weatherApplogo.jpg";
+import ecommercelogo from "../project_image/ecommerceLogo.png";
+import maillogo from "../project_image/maillogo.webp";
 
 export const Work = () => {
   return (

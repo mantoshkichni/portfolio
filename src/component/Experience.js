@@ -1,11 +1,11 @@
-import clogo from "../../images/C_Logo.png";
-import javalogo from "../../images/java_logo.png";
-import reactlogo from "../../images/reactsjsLogo.png";
-import nodelogo from "../../images/nodejs-logo.png";
-import mongodblogo from "../../images/mongodblogo.jpg";
-import mysqllogo from "../../images/mysqllogo.jpg";
-import javascriptlogo from "../../images/javascript_logo.png";
-import bootstraplogo from "../../images/bootatrapLogo.png";
+import clogo from "../images/C_Logo.png";
+import javalogo from "../images/java_logo.png";
+import reactlogo from "../images/reactsjsLogo.png";
+import nodelogo from "../images/nodejs-logo.png";
+import mongodblogo from "../images/mongodblogo.jpg";
+import mysqllogo from "../images/mysqllogo.jpg";
+import javascriptlogo from "../images/javascript_logo.png";
+import bootstraplogo from "../images/bootatrapLogo.png";
 import "./experience.css";
 export const Experience = () => {
   return (
